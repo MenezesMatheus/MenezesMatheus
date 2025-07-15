@@ -51,5 +51,5 @@ I'm passionate about technology, always seeking to learn more and take on new ch
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MenezesMatheus&show_icons=true&count_private=true&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=0d1117&border_color=444c56" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenezesMatheus&layout=compact&title_color=00bfff&text_color=ffffff&bg_color=0d1117&border_color=444c56" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenezesMatheus&layout=compact&title_color=00bfff&text_color=ffffff&bg_color=0d1117&border_color=444c56" />
 </div>
