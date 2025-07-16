@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About me:
-I'm a Computer Engineering undergraduate at the Federal University of Pernambuco (UFPE), currently in my third semester.  
+I'm a Computer Engineering undergraduate at the Universidade Federal de Pernambuco (UFPE), currently in my third semester.  
 I'm passionate about technology, always seeking to learn more and take on new challenges.
 
 **Currently exploring, learning, and improving my skills with these technologies:**
