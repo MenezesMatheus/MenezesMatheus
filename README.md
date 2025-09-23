@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Matheus! </h1>
 
 <p align="center">
-  Aspiring Developer | Computer Engineering student at UFPE (3rd semester)
+  Aspiring Developer | Computer Engineering student at UFPE (4th semester)
 </p>
 
 ---
