@@ -27,7 +27,6 @@ I'm passionate about technology, always seeking to learn more and take on new ch
 - HTML, CSS
 - PostgreSQL
 - React, Node.js
-- Verilog, System Verilog
 ---
 
 ### 🛠️ Tools & Technologies:
@@ -41,8 +40,6 @@ I'm passionate about technology, always seeking to learn more and take on new ch
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00bcd4?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-f44336?style=for-the-badge)
 
 
 ---
