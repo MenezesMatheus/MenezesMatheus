@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Matheus! </h1>
 
 <p align="center">
-  Aspiring Developer | Computer Engineering student at UFPE (4th semester)
+  Aspiring Developer | Computer Engineering student at UFPE (5th semester) | Member of Apple Academy UFPE class 26-27.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About me:
-I'm a Computer Engineering undergraduate at the Universidade Federal de Pernambuco (UFPE), currently in my fourth semester.  
+I'm a Computer Engineering undergraduate at the Universidade Federal de Pernambuco (UFPE), currently in my fifth semester.  
 I'm passionate about technology, always seeking to learn more and take on new challenges.
 
 **Currently exploring, learning, and improving my skills with these technologies:**
