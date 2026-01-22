@@ -22,7 +22,7 @@ I'm passionate about technology, always seeking to learn more and take on new ch
 
 **Currently exploring, learning, and improving my skills with these technologies:**
 
-- C, C++
+- C
 - Python, JavaScript
 - HTML, CSS
 - PostgreSQL
