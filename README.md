@@ -22,8 +22,9 @@ I'm passionate about technology, always seeking to learn more and take on new ch
 
 **Currently exploring, learning, and improving my skills with these technologies:**
 
+- Swift, SwiftUI, SwiftData
 - C
-- Python, JavaScript
+- Python, TypeScript
 - HTML, CSS
 - PostgreSQL
 - React, Node.js
@@ -31,10 +32,10 @@ I'm passionate about technology, always seeking to learn more and take on new ch
 
 ### 🛠️ Tools & Technologies:
 
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
