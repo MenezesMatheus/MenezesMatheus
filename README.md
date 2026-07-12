@@ -38,6 +38,6 @@ Computer Engineering student at CIn-UFPE | Member of Apple Academy UFPE class 26
 ### 📊 GitHub Stats:
 
 <div align="center">
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=MenezesMatheus&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenezesMatheus&layout=default&hide_border=true&theme=tokyonight" />
+<img height="195em" src="https://github-readme-stats-fast.vercel.app/api?username=MenezesMatheus&show_icons=true&theme=react&hide_border=true" />
+<img height="195em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MenezesMatheus&layout=compact&theme=react&hide_border=true" />
 </div>
