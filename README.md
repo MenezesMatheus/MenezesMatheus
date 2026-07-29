@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Matheus! </h1>
 
 <p align="center">
-Computer Engineering student at CIn-UFPE | Member of Apple Academy UFPE class 26-27.
+Computer Science student at CIn-UFPE | Member of Apple Academy UFPE class 26-27.
 </p>
 
 ---
